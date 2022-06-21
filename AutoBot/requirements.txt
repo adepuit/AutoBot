@@ -4,7 +4,7 @@ chardet==3.0.4
 gevent==1.2.2
 greenlet==0.4.12
 idna==2.6
-numpy==1.13.3
+numpy==1.22.0
 pip==21.1
 pymongo==3.6.0
 requests==2.20.0
